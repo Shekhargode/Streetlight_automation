@@ -62,4 +62,3 @@ The Arduino microcontroller, now equipped with internet technologies, will autom
 
 ## Conclusion
 This IoT-based street lighting system significantly reduces energy consumption, lowers operational costs, and reduces the carbon footprint. It enhances public safety by ensuring well-lit streets when needed and minimizes light pollution, thereby preserving the natural environment. This project can serve as a foundation for smart city initiatives, demonstrating the potential of IoT and automation in urban infrastructure.
-``` &#8203;:citation[oaicite:0]{index=0}&#8203;
